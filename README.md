@@ -1,6 +1,6 @@
 # Olá, Sou Fernanda Borges
 # Sou formada no curso  Técnico de Nutrição e Dietética  
-#  Atualmente estou cursando Front- End na Ford Academy  
+#  Atualmente estou cursando Front- End na Ford Academy uma Parceria com Senai - SP 
 *fernanda418/fernanda418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profi
 
 Here are some ideas to get you started:
