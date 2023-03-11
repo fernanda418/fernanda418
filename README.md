@@ -1,16 +1,16 @@
-# Olá, Sou Fernanda Borges
-# Sou formada no curso  Técnico de Nutrição e Dietética  
-#  Atualmente estou cursando Front- End na Ford Academy uma Parceria com Senai - SP 
-*fernanda418/fernanda418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profi
+# Meu nome é Fernanda Borges
+## Idade: 31 anos 
+### Moro em São Paulo - Capital
+Sou Solteira
+🔭 Trabalho atualmente em uma corretora de planos de saúde forma autônoma. 
+🌱 Atualmente estou aprendendo a programação Front-End no Senai-Ford Enter.
 
-Here are some ideas to get you started:
+👯 Estou em busca de conhecimento e aprimoriamento na área de programação.
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ..
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 Procuro ajuda com oportunidades de emprego na área de desenvolvimento Front End.
+
+
+Minha formação é: Técnico em Nutrição e Dietética  
+Estou me especializando na área de programação Front End em HTML, CSS e Java Script
+
+
